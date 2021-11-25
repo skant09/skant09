@@ -3,7 +3,6 @@
 I am Suryakant.
 
 Have fun.
-[![skant09's GitHub stats](https://github-readme-stats.vercel.app/api?username=skant09)](https://github.com/skant09/github-readme-stats)
 
 
 <!--

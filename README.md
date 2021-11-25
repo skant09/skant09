@@ -4,7 +4,7 @@ I am Suryakant.
 
 Have fun.
 
-[https://github-readme-stats.vercel.app/api?username=skant09&show_icons=true](skant)
+[![skant09's GitHub stats](https://github-readme-stats.vercel.app/api?username=skant09)](https://github.com/skant09/github-readme-stats)
 <!--
 **skant09/skant09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
